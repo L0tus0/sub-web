@@ -283,29 +283,29 @@ export default {
             label: "本站在线配置文件",
             options: [
               {
-                label: "全分组 🔬🛑 (for📱)",
+                label: "全分组 学术",
                 value:
-                  "https://raw.githubusercontent.com/L0tus0/now-subconverter/master/config/Full_Scholar_AAD.ini"
+                  "https://raw.githubusercontent.com/L0tus0/now-subconverter/master/config/Full_Scholar.ini"
               },
               {
-                label: "全分组 多模式 🔬🛑 (for🖥@🎓️)",
+                label: "全分组 多模式 学术",
                 value:
-                  "https://raw.githubusercontent.com/L0tus0/now-subconverter/master/config/Full_Multi_Scholar_AAD.ini"
+                  "https://raw.githubusercontent.com/L0tus0/now-subconverter/master/config/Full_Multi_Scholar.ini"
               },
               {
-                label: "全分组 多模式 (for🌐@🏠)",
-                value:
-                  "https://raw.githubusercontent.com/L0tus0/now-subconverter/master/config/Full_Multi.ini"
-              },
-              {
-                label: "全分组 🔬🆎 (for📱)",
+                label: "全分组 学术 去广告",
                 value:
                   "https://raw.githubusercontent.com/L0tus0/now-subconverter/master/config/Full_Scholar_ABP.ini"
               },
               {
-                label: "全分组 多模式 🔬🆎 (for🖥)",
+                label: "全分组 多模式 学术 去广告",
                 value:
                   "https://raw.githubusercontent.com/L0tus0/now-subconverter/master/config/Full_Multi_Scholar_ABP.ini"
+              },
+              {
+                label: "全分组 多模式 Home",
+                value:
+                  "https://raw.githubusercontent.com/L0tus0/now-subconverter/master/config/Full_Multi.ini"
               },
             ]
           },
